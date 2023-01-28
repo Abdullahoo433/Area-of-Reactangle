@@ -10,6 +10,6 @@ int main()
 	cin>>length;
 	cout<<"Enter width\n";
 	cin>>width;
-	area=length*width;
+	area=length*width;;
 	cout<<"Area is " <<area;
 }
